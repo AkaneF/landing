@@ -1,0 +1,10 @@
+.cards{
+  background-color: white;
+  font: black;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+ /* width: 300px
+  height: 800px;
+}*/
